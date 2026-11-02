@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "ggfreakinez",
+  "version": "${version}",
+  "name": "gg freakin ez",
+  "description": "Safe anchor macro.",
+  "authors": ["you"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": { "client": ["com.vibe.ggez.GgFreakinEz"] },
+  "depends": { "fabricloader": "*", "fabric-api": "*", "minecraft": "*" }
+}
